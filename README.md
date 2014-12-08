@@ -1,6 +1,5 @@
 
-rkshop
+Workshop
 ========
 
 Oded's JS workshop
-:wq
