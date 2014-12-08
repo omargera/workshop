@@ -1,0 +1,24 @@
+{
+  "name": "workshop",
+  "version": "0.0.0",
+  "description": "workshop project",
+  "main": "index.js",
+  "dependencies": {
+    "jshint": "~2.5.10",
+    "express": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omargera/workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omargera/workshop/issues"
+  },
+  "homepage": "https://github.com/omargera/workshop"
+}
